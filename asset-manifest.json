@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/alexalfonso.github.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/alexalfonso.github.io/static/js/main.2486aaa2.chunk.js",
+    "main.js.map": "/alexalfonso.github.io/static/js/main.2486aaa2.chunk.js.map",
+    "runtime-main.js": "/alexalfonso.github.io/static/js/runtime-main.e09477c7.js",
+    "runtime-main.js.map": "/alexalfonso.github.io/static/js/runtime-main.e09477c7.js.map",
+    "static/js/2.af43f9a8.chunk.js": "/alexalfonso.github.io/static/js/2.af43f9a8.chunk.js",
+    "static/js/2.af43f9a8.chunk.js.map": "/alexalfonso.github.io/static/js/2.af43f9a8.chunk.js.map",
+    "static/js/3.19164703.chunk.js": "/alexalfonso.github.io/static/js/3.19164703.chunk.js",
+    "static/js/3.19164703.chunk.js.map": "/alexalfonso.github.io/static/js/3.19164703.chunk.js.map",
+    "index.html": "/alexalfonso.github.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/alexalfonso.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.af43f9a8.chunk.js.LICENSE.txt": "/alexalfonso.github.io/static/js/2.af43f9a8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/alexalfonso.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e09477c7.js",
+    "static/js/2.af43f9a8.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.2486aaa2.chunk.js"
+  ]
+}
